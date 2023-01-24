@@ -28,7 +28,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="4dp"
-        android:text="V-Order"
+        android:text="V-Order Comercios"
         android:textColor="@color/color_launch"
         android:textColorHighlight="#000000"
         android:textSize="50sp"
