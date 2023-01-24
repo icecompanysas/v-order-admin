@@ -11,7 +11,7 @@ const App = () => {
   return(
   <View style= {{flex: 1}}>
     <StatusBar barStyle= "dark-content" backgroundColor={'#ffffff'} />
-    <WebView source={{uri: 'https://www.v-order.com.co'}} style = {{marginTop: 20}} />
+    <WebView source={{uri: 'https://www.v-order.com.co/admin/restaurantes'}} style = {{marginTop: 20}} />
     </View>
   );
 }

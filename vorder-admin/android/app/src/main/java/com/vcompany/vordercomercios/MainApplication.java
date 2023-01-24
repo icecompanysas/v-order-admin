@@ -1,4 +1,4 @@
-package com.vcompany.vorder;
+package com.vcompany.vordercomercios;
 import org.devio.rn.splashscreen.SplashScreenReactPackage;
 import android.app.Application;
 import com.facebook.react.PackageList;

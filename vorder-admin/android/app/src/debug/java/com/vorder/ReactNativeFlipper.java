@@ -5,7 +5,7 @@
  * directory of this source tree.
  */
 
-package com.vcompany.vorder;
+package com.vcompany.vordercomercios;
 import android.content.Context;
 import com.facebook.flipper.android.AndroidFlipperClient;
 import com.facebook.flipper.android.utils.FlipperUtils;

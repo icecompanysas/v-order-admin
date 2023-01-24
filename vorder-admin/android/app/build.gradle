@@ -93,12 +93,12 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.vcompany.vorder"
+    namespace "com.vcompany.vordercomercios"
     defaultConfig {
-        applicationId "com.vcompany.vorder"
+        applicationId "com.vcompany.vordercomercios"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 2
+        versionCode 1
         versionName "1.0.1"
     }
 

@@ -1,4 +1,4 @@
-package com.vcompany.vorder;
+package com.vcompany.vordercomercios;
 import android.os.Bundle; // here
 import com.facebook.react.ReactActivity;
 
